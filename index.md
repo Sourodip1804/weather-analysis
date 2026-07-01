@@ -47,7 +47,7 @@ layout: default
 
 ## GitHub Repository
 
-[View on GitHub](https://github.com/avik43218/WeatherDataAnalysis)
+[View on GitHub](https://github.com/Sourodip1804/weather-analysis)
 
 ---
 
